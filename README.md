@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Abdul Kadir
-- 👀 I’m interested in Dot Net
-- 🌱 I’m currently learning ReactJS Cards & Payment. 
 - 📫 How to reach me Kadirsaifi08@gmail.com
 
 <!---
